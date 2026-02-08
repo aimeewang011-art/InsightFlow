@@ -1,0 +1,3 @@
+﻿display_name: Insight Flow
+short_description: Structured brief from keyword + links
+default_prompt: Produce a concise structured report that prioritizes user-provided links, adds authoritative background, compares viewpoints, and recommends exactly 3 core readings.
